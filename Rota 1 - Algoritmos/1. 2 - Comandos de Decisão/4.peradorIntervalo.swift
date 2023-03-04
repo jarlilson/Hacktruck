@@ -28,3 +28,5 @@ switch(porcentagem){
   default:
   print("Excelente, desempenho memorável!")
 }
+
+//PS: conceito de range sendo apresentado no curso.
