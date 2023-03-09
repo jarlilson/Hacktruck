@@ -1,0 +1,45 @@
+Resultado: Exercício - Algoritmos - Funções
+Usuário: Jarlilson Guajajara
+Data inicial: 08 Março, 2023 às 08:56 PM
+Duração: 2:16:08
+
+1)
+R = Recursão
+
+2)
+R = A função identifica se a variavel entrada é maior ou menor que o valor informado no segundo parâmetro.
+
+3)
+n = 3 discos; A:p; B:0; C:0;
+	      A:m; B:p; c:0
+	      A:g; B:p; c:m
+	      A:g; B:0; c:p(m)
+	      A:0; B:g; c:p(m)
+	      A:p; B:g; C:m
+	      A:p; B:m(g); C:0;
+	      A:0; B:p(m)(g); C:0; 
+R = 7 Interações.
+
+4)
+R = 120
+PS: é como nas aulas, um fatorial.
+
+5)
+R = é imprimido "Olá, mundo" normalmente.
+
+6)
+R = Calcula o fatorial de um número par.
+
+7)
+R = O código possui erro na utilização dos comandos.
+PS: resposta errada!
+Como a contagem do fatorial comecará do 0, qualquer número resultará em zero. Dessa maneira 5! = 0x1x2x3x4x5=0
+
+8)
+R = "Teste 1" e "Teste 3"
+
+9)
+R = A quarta solução está incorreta
+
+10)
+R = O valor do retorno é 3.
