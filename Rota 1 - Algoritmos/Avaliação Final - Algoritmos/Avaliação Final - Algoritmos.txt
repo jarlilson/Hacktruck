@@ -1,0 +1,39 @@
+Resultado: Avaliação Final - Algoritmos
+Usuário: Jarlilson Guajajara
+Data inicial: 10 Março, 2023 às 09:10 AM
+Duração: 0:46:17
+
+1)
+R = Tratar números pares e ímpares, dependendo de sua utilização.
+
+2)
+R = Após executar o programa imprime “fatorial=24”.
+
+3)
+R = "ATENÇÃO, VAI FECHAR"
+
+4)
+R = var nome_variavel : String
+
+5)
+R = “PARE!”
+
+6)
+“ var c = !false && || true ” = erro na sintaxe
+R = Atribuição está incorreta.
+
+7)
+“ (a > 3) && ( a - 2 < 1 ) ” = 
+a = 4 -> (4 > 3) && (4 - 2 < 1) = true && false = false
+a = 3 -> (3 > 3) && (3 - 2 < 1) = false && false = false
+R = Sempre FALSO.
+PS: curiosidade sobre essa questão: se você usar o chatgpt ele sempre fornece a resposta errada.
+
+8)
+R = Este comando fará o programa escrever “X”.
+
+9)
+R = "Saída 5".
+
+10)
+R = 15.
