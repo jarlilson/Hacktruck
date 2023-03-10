@@ -9,7 +9,7 @@ class Carro {
     var cor: String?
     //PS: um tipo de dado seguido de "?" quer dizer que em em algum momento estas variáveis podem não ter nenhum valor(Opcionais)
 
-    func andar() {
+    func andar() { //Comportamentos dos objetos de uma Classe (metodos)
         print("Andando para frente")
     }
     
