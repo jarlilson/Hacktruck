@@ -1,0 +1,69 @@
+Resultado: Exercício - Algoritmos - Conceitos Iniciais
+
+Usuário: Jarlilson Guajajara Santos
+Data inicial: 02 Março, 2023 às 11:14 AM
+Duração: 0:21:04
+
+1)
+A-III
+B-I
+C-II
+D-V
+E-IV
+
+2)
+A- verdadeiro
+B-verdadeiro
+C-verdadeiro
+D - falso
+E - falso
+
+3)
+Teriamos um erro, pois não é possivel alterar o valor de let.
+
+4)
+I - verdadeiro
+II - false
+III - verdadeiro
+IV - verdadeiro
+R = Somente a expressão II não está no resultado esperado.
+
+5)
+Algoritmo é uma sequência de ações que podem ser interpretadas por um computador.
+
+6)
+A - falso
+B - falso
+C - verdadeiro
+D - falso
+E - falso
+R = ABDE
+
+7)
+I - verdadeiro
+II - falso
+III - falso
+IV - falso
+R = Somente a I é verdadeira
+
+8)
+verdadeiro
+
+9)
+A - V
+B - I
+C - V
+D - V
+E - V
+F - I
+G - I
+H - I
+
+10)
+A-II
+B-V
+C-I
+D-III
+E-IV
+
+PS: acabei de distraindo e marcando a 9 errado
